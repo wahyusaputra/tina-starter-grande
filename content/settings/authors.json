@@ -1,6 +1,12 @@
 {
   "authors": [
     {
+      "name": "Wahyu Saputra",
+      "id": "l14dqsuq8",
+      "email": "wahyuwishnusaputra@gmail.com",
+      "link": ""
+    },
+    {
       "name": "Katie Graham",
       "id": "katie-graham",
       "email": "test@test.com"
@@ -11,5 +17,8 @@
       "email": "scott.byrne@forestry.io",
       "link": "mailto:scott.byrne@forestry.io"
     }
-  ]
+  ],
+  "__gatsby_resolved": {
+    "fileRelativePath": "/content/settings/authors.json"
+  }
 }
