@@ -6,8 +6,12 @@ path: /blog/niat
 draft: false
 hero:
   image: ../images/
+authors:
+  - l14dqsuq8
 ---
-## Niatku
+> Assalamu'alaykum warahmatullah wabarakatuh.
+
+Bismillah. Yuk, mulai  menulis. Niat dan usaha ini dimulai dari sini.
 
 1. Ikat ilmu dengan tulisan
 2. Ajarkan supaya sepenuhnya paham
