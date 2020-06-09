@@ -1,8 +1,8 @@
 {
   "logo": "Coffee",
-  "title": "Tina Grande",
-  "description": "Tina Grande is a feature rich Gatsby starter with full TinaCMS integration.",
-  "author": "TinaCMS",
+  "title": "sinau.dev",
+  "description": "Situs Pribadi Wahyu Saputra (sinau.dev)",
+  "author": "Wahyu Saputra",
   "__gatsby_resolved": {
     "fileRelativePath": "/content/settings/site.json"
   }
