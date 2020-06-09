@@ -15,12 +15,6 @@
         "link": "/blog",
         "primary": true,
         "arrow": true
-      },
-      {
-        "label": "Contact Me",
-        "link": "/contact",
-        "arrow": false,
-        "primary": false
       }
     ],
     "image": "../images/1055 [Converted]-02.jpg",
