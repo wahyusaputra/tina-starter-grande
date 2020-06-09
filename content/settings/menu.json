@@ -1,6 +1,10 @@
 {
   "menuItems": [
     {
+      "label": "Course",
+      "link": "/course"
+    },
+    {
       "label": "Home",
       "link": "/"
     },
